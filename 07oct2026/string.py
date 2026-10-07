@@ -1,0 +1,7 @@
+l=input()
+length=len(l)
+large=max(l)
+small=min(l)
+print(length)
+print(large)
+print(small)

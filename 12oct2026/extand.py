@@ -1,5 +1,5 @@
-num=[10,20,30,40]
-print("original list:",num)
+list=[10,20,30,40]
+print("original list:",list)
 element=[50,60,70]
-num.extend(element)
-print("updated list:",num)
+list.extend(element)
+print("updated list:",list)

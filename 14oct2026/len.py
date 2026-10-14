@@ -1,4 +1,4 @@
 list=[1,2,3,4,5,6]
 print(list)
-list.len()
-print(lenth)
+length=len(list)
+print(length)

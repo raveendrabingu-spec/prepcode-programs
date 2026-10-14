@@ -1,4 +1,4 @@
 list=[1,2,3,4,5,6]
 print(list)
-max=max(list)
-print(max)
+b=max(list)
+print(b)
